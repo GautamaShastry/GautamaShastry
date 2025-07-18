@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there, I'm Gautama 👋</h1>
+<h1 align="center">Hey there, I'm Satya 👋</h1>
 
 <p align="center">
   MSCS @ George Mason University • Aspiring SDE 1 • Cloud ☁️ & AI/ML Enthusiast
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 ## 🗒️ About Me
 I'm a Master's student in Computer Science (GPA 3.85) who loves turning ambiguous customer problems into scalable, low‑latency cloud services on AWS. With 200 + LeetCode problems under my belt, I bring strong algorithms chops alongside production experience building microservices in Java, Python, and C++. I thrive in fast Agile teams that measure success by working software and delighted users.
+
+## 🌐 Website
+Please check out my website: [gautamportfolio.com](https://gautamportfolio.com)
 
 ## 🛠️ Skills
 - **Languages:** Java, Python, C++, SQL, JavaScript/TypeScript, HTML/CSS
@@ -51,30 +54,41 @@ I'm a Master's student in Computer Science (GPA 3.85) who loves turning ambigu
 
 ## 🚀 Projects
 <details>
-<summary><b>Student Survey API</b> – Spring Boot • AWS RDS • Kubernetes</summary>
+<summary><b>Student Survey Application | SpringBoot, Docker, Kubernetes, Jenkins, AWS EC2, AWS RDS, Rancher</b> <br/> <i>March 2025 – May 2025</i></summary>
 
-- Designed a 13‑field REST API with Bean Validation; processed **60 +** live submissions error‑free.
-- Tuned HikariCP on Amazon RDS MySQL for low‑latency throughput.
-- Containerized to OpenJDK‑slim and auto‑deployed a 3‑replica K8s cluster via Jenkins, sustaining **99.9 %** uptime.
+- Designed a Spring Boot REST API for a 13‑field Survey entity with five CRUD endpoints using Spring Data JPA and Bean Validation (@NotBlank, @Email, @NotNull); verified all routes in Postman and processed **60 +** live submissions with zero validation errors.
+- Provisioned an Amazon RDS MySQL 8 database and tuned HikariCP (max pool size 20, min idle 5) for consistent throughput and low latency.
+- Containerized the service into an OpenJDK 23‑slim image with an optimized single‑stage Dockerfile, pushed version‑tagged images to DockerHub from the CLI, and deployed a 3‑replica Kubernetes Deployment on 3 EC2 nodes managed by Rancher, exposed via a NodePort Service—maintained **99.9 %** uptime.
+- Created a Git‑triggered Jenkins pipeline (Maven tests, build & push Docker image, and `kubectl rollout`) that rebuilds and redeploys in about **5 minutes**, maintaining zero‑downtime releases under Git/GitHub version control.
+
 </details>
 
 <details>
-<summary><b>Taskify</b> – React • Node • MongoDB</summary>
+<summary><b>Taskify – Task Management Web App | Vite + React.js, Express.js, Node.js, MongoDB, Docker</b> <br/> <i>Jan 2025 – Feb 2025</i></summary>
 
-- Built full‑stack task manager with JWT auth, profile CRUD, and **20 +** real‑time filters; cut search latency **15 %**.
+- Developed a full‑stack task management application using React.js, Node.js, and MongoDB, allowing users to efficiently create, update, delete, and manage tasks; included comprehensive features such as profile updates and deletions.
+- Integrated JWT‑based authentication with Express.js and user profile management with bcrypt password hashing, enhancing security and reducing login‑related incidents by **25 %**.
+- Designed and developed **20 +** real‑time filtering, sorting, and search functionalities, enhancing data accessibility and reducing search response time by **15 %**.
+
 </details>
 
 <details>
-<summary><b>Resume Analyzer</b> – React • Spring Boot • Python • PostgreSQL</summary>
+<summary><b>Resume Analyzer | React.js, SpringBoot, Python, Flask, PostgreSQL, Render, Vercel, Docker</b> <br/> <i>Feb 2025 – May 2025</i></summary>
 
-- End‑to‑end AI‑powered resume scoring; reduced recruiter clicks **70 %** and scored resumes with **87 %** accuracy at <1.5 s latency.
-- Orchestrated Java API ↔ Python ML microservice; processed **50 +** resumes during pilot with zero errors; **99.95 %** uptime on Render/Vercel.
+- Built a React application that lets recruiters upload resumes and job descriptions, then view AI‑generated fit scores; implemented protected routes and JWT handling with Axios, cutting manual screening clicks by **70 %** in user tests.
+- Developed a Spring Boot REST API secured by Spring Security roles and JWT; exposed endpoints for resume upload, job description upload, and score retrieval, persisting all data in PostgreSQL via Spring Data JPA.
+- Created a Python microservice that uses spaCy to extract entities and assign fit scores with **87 %** validation accuracy and sub‑1.5‑second inference latency.
+- Orchestrated cross‑service communication: the Java API calls the AI microservice, stores scores and extracted skills in PostgreSQL, and returns aggregated results to the React UI; processed **50 +** candidate resumes during a two‑week pilot with zero API errors.
+- Deployed the Spring Boot backend and Flask ML service on Render and the React frontend on Vercel, enabling auto‑scaling to zero, sustaining **99.95 %** uptime, and keeping hosting spend under **US $50/month**.
+
 </details>
 
 <details>
-<summary><b>Portfolio Site</b> – React • Tailwind • AWS S3 + CloudFront</summary>
+<summary><b>Portfolio | React.js, Tailwind CSS, AWS S3, AWS CloudFront, AWS Route 53, AWS ACM</b> <br/> <i>Jan 2025 – Jul 2025</i></summary>
 
-- Achieved > 90 Lighthouse scores and **193 ms** avg TTFB using CloudFront CDN, HSTS, and OAI‑secured S3 origin.
+- **Frontend Development & UI:** Engineered a mobile‑first SPA in React + Tailwind that scores > 90 on Lighthouse (Performance, Accessibility, Best Practices, SEO) for both mobile and desktop. Integrated Framer Motion micro‑interactions—animated cards, section reveals, hover effects—boosting user engagement by **15 %**.
+- **Cloud DevOps:** Architected a latency‑optimized stack—Amazon S3 for static hosting, CloudFront CDN for content delivery, and Route 53 for DNS health‑check failover—that now serves <code>gautamportfolio.com</code> at an average TTFB of **193 ms** and earns an **89 %** SpeedVitals grade A. Locked down the origin with OAI, enforced SSL/TLS via ACM, enabled HSTS preload, and mandated HTTPS redirects, resulting in zero high‑severity findings across recurring AWS Security Hub scans.
+
 </details>
 
 ## 🎓 Education
