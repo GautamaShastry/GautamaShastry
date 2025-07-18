@@ -45,6 +45,7 @@ Please check out my website: [gautamportfolio.com](https://gautamportfolio.com)
 
 ## 📜 Certifications
 - **AWS Certified Cloud Practitioner – CLF‑C02**
+- **Deep Learning Specialization - Coursera(Deep Learning.ai)**
 
 ## 💼 Experience
 **Software Engineer Intern – Backflipt | Jan 2023 – Jun 2023 (Hyderabad, India)**
