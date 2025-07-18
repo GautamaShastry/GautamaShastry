@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/satya2603/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
   <a href="https://gautamportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=firefox-browser&logoColor=white"/></a>
   <a href="https://github.com/GautamaShastry"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=GautamaShastry&style=flat&label=Views" alt="Profile views"/>
 </p>
 
 ## 🗒️ About Me
