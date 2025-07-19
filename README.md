@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ## 🗒️ About Me
 I'm a Master's student in Computer Science (GPA 3.85) who loves turning ambiguous customer problems into scalable, low‑latency cloud services on AWS. With 200 + LeetCode problems under my belt, I bring strong algorithms chops alongside production experience building microservices in Java, Python, and C++. I thrive in fast Agile teams that measure success by working software and delighted users.
+- 🔭 Currently shipping full‑stack, cloud‑native services with Spring Boot, React, and AWS.
+- 🌱 Deepening expertise in retrieval‑augmented generation & vector search for LLMs.
+- 💬 Ask me about Java, Python, Kubernetes, AWS, or CI/CD.
+- ⚡ Fun fact: solved 200 + LeetCode problems (so far!).
 
 ## 🌐 Website
 Please check out my website: [gautamportfolio.com](https://gautamportfolio.com)
@@ -40,8 +44,29 @@ Please check out my website: [gautamportfolio.com](https://gautamportfolio.com)
 - **Frameworks & Libraries:** Spring Boot, React.js, Node.js, Express, Redux
 - **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
 - **Cloud & DevOps:** AWS (EC2, S3, CloudFront, Route 53, RDS, Lambda, SQS, SNS), Docker, Kubernetes, Jenkins, Rancher, Git/GitHub
-- **ML/AI:** pandas, NumPy, spaCy, TensorFlow, Keras, RAG, LLM fine‑tuning
+- **ML/AI:** pandas, NumPy, spaCy, TensorFlow, Keras, RAG, LLM fine‑tuning, Machine Learning, Deep Learning, NLP, CV
 - **Practices:** Microservices, REST APIs, CI/CD, Agile/Scrum, TDD
+
+## 🧰 Tech Toolbox
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 
 ## 📜 Certifications
 - **AWS Certified Cloud Practitioner – CLF‑C02**
@@ -98,5 +123,11 @@ Please check out my website: [gautamportfolio.com](https://gautamportfolio.com)
 - **Andhra University**, Visakhapatnam, India — *B.Tech. Computer Science*, 8.15/10 *(Aug 2019 – May 2023)*
 
 ---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GautamaShastry&show_icons=true&theme=default" alt="Gautama's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamaShastry&layout=compact&theme=default" alt="Top Langs"/>
+</p>
 
 > “Every once in a while a new technology, an old problem and a big idea turn into an innovation.” – Dean Kamen
