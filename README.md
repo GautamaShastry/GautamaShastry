@@ -73,10 +73,10 @@ Please check out my website: [gautamportfolio.com](https://gautamportfolio.com)
 - **Deep Learning Specialization - Coursera(Deep Learning.ai)**
 
 ## 💼 Experience
-**Software Engineer Intern – Backflipt | Jan 2023 – Jun 2023 (Hyderabad, India)**
+**Associate Software Engineer – Backflipt | Jan 2023 – Dec 2023 (Hyderabad, India)**
 - Shipped modular React + Redux interfaces that boosted user engagement **20 %** by improving scalability.
 - Cut unnecessary re‑renders **40 %** and trimmed page‑load times **10 %** through component‑level profiling.
-- Authored Confluence docs that reduced new‑hire ramp‑up **25 %**.
+- Authored Confluence docs that reduced new‑hire ramp‑up by **25 %**.
 - Optimized state management, slashing API latency **15 %**.
 
 ## 🚀 Projects
