@@ -51,7 +51,7 @@ Portfolio: https://gautamportfolio.com
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 💼 Experience (High-signal)
+## 💼 Experience
 **Backflipt | Associate Software Engineer | Jan 2023 – Dec 2023**
 - Built and shipped React/Redux workflows; improved debugging and triage by standardizing error contracts and correlation IDs (**20%** reduction in debugging time)
 - Designed Spring WebFlux microservices with validation and consistent error mapping; optimized DocumentDB queries and reduced p95 API latency by **~35 ms**
@@ -62,7 +62,7 @@ Portfolio: https://gautamportfolio.com
 - Developed Python validation scripts for Linux/UNIX workflows; ran regression checks in **~12 to 15 min** with logs/outputs for reproducible bug reports
 - Used Git PR workflows and documented defects with environment details; collaborated with devs to confirm fixes
 
-## 🚀 Projects (Resume-aligned)
+## 🚀 Projects
 ### Sentinel AI | Go, gRPC, Kafka, Python, YOLOv8, SLURM/A100, FastAPI, React, PostgreSQL
 - Built distributed inference pipeline (gRPC ingestion → Kafka → GPU workers); achieved **30x speedup** (500 ms → 16.1 ms) using GPU batching; sustained **24.3 FPS** at 1080p with sub-second alerts
 - Delivered React UI + FastAPI + PostgreSQL; processed **293 frames in 12.1 s** with **117 detections**; added Prometheus/Grafana dashboards and auto-cleanup policies
