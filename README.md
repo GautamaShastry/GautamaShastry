@@ -23,7 +23,7 @@ I build cloud-native services and distributed systems with a strong focus on rel
 ## 🌐 Website
 Portfolio: https://gautamportfolio.com
 
-## 🛠️ Skills (Resume-aligned)
+## 🛠️ Skills
 - **Languages:** Python, Java, SQL, TypeScript/JavaScript, Go, C/C++, HTML/CSS, Bash  
 - **CS Fundamentals:** Data Structures, Algorithms, OOP, Design Patterns, SDLC  
 - **Frameworks:** React, Redux, Node.js, Express.js, FastAPI, Flask, Spring Boot, Spring WebFlux, REST, GraphQL, JPA/Hibernate  
