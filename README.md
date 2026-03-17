@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Satya 👋</h1>
+<h1 align="center">Hey there, I'm Gautam 👋</h1>
 
 <p align="center">
   MSCS @ George Mason University • Aspiring SDE 1 • Cloud ☁️ & AI/ML Systems
